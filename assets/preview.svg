@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="ByteDesk template base preview">
+  <rect width="1200" height="675" fill="#f7f8fb"/>
+  <rect x="86" y="88" width="520" height="34" rx="17" fill="#3858e9" opacity="0.16"/>
+  <rect x="86" y="160" width="780" height="76" rx="16" fill="#151821"/>
+  <rect x="86" y="260" width="660" height="30" rx="15" fill="#465062" opacity="0.34"/>
+  <rect x="86" y="318" width="180" height="58" rx="10" fill="#151821"/>
+  <rect x="86" y="444" width="460" height="142" rx="14" fill="#ffffff" stroke="#d9deea"/>
+  <rect x="584" y="444" width="460" height="142" rx="14" fill="#ffffff" stroke="#d9deea"/>
+</svg>
